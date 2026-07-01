@@ -46,15 +46,15 @@ MySQL
 
 ### Admin Dashboard
 
-![Dashboard](screenshots/admin-dashboard.png)
+![Dashboard](admin-dashboard.png)
 
 ### Manage Buses
 
-![Buses](screenshots/manage-buses.png)
+![Buses](manage-buses.png)
 
 ### Payment
 
-![Payment](screenshots/payment.png)
+![Payment](payment.png)
 
 ## Installation
 
