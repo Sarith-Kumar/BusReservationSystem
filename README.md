@@ -42,7 +42,7 @@ MySQL
 
 ### Home Page
 
-![Home](screenshots/home.png)
+!home.png
 
 ### Admin Dashboard
 
