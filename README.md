@@ -87,7 +87,7 @@ MySQL
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BusReservationSystem.git
+git clone https://github.com/Sarith-Kumar/BusReservationSystem.git
 ```
 
 Create MySQL database
