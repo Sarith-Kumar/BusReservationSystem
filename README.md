@@ -116,7 +116,3 @@ mvn spring-boot:run
 - Seat Selection
 - JWT Authentication
 - REST APIs
-
-## Author
-
-Sarith Kumar
